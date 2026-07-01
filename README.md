@@ -1,1 +1,1 @@
-# -Logic-Circuit-Descriptive-Language-Core-Spec
+# Logic-Circuit-Descriptive-Language-Core-Spec
